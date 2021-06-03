@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and certain account of the last great wind &amp; storms being a narrative of the several accidents, hurts and damages caused thereby, both by sea and land, at home and abroad / collected out of domestick and forreign letters with a great deal of care and diligence, and faithfully published.</title>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23262</idno><idno type="EEBO-CITATION">17063193</idno>
+  <idno type="VID">206294</idno>
+  <idno type="EEBO-PROQUEST">2240858216</idno>
+  
+            <idno type="STC">Wing F2275</idno>
+            <idno type="OCLC">17063193</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23262)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206294)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1616:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and certain account of the last great wind &amp; storms being a narrative of the several accidents, hurts and damages caused thereby, both by sea and land, at home and abroad / collected out of domestick and forreign letters with a great deal of care and diligence, and faithfully published.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.B. for Dorman Newman ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title (p. 3): An account of the last great winds and storms, on Tuesday February 18.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Windstorms --  England.</term>
+               <term type="topical_term">Cyclones --  England.</term>
+               <term type="topical_term">Winds --  Religious aspects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206294:1"/>
+            <pb facs="tcp:206294:1"/>
+            <p> A full and certain ACCOUNT Of the last great VVind &amp; Storms, Being a NARRATIVE OF THE Several Accidents, Hurts and Damages caused thereby, both by Sea and Land, at home and abroad.</p>
+            <p>
+               <hi>Collected out of Domestick and Forreign Letters with a great deal of care and diligence, and faithfully published.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. B.</hi> for <hi>Dorman Newman,</hi> at the Kings-Arms in the <hi>Poultery,</hi> next to <hi>Grocers-Alley.</hi>
+            </p>
+            <pb facs="tcp:206294:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:206294:2"/>
+            <head>AN ACCOUNT Of the last great VVinds and Storms, On Tuesday <hi>February</hi> 18. The like not in the memory of man before.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here have been many discourses on a book lately published, called the <hi>Prodigies,</hi> with what Treasonable reflections, we list not to mention, therefore to secure the Reader from any such danger or in<g ref="char:EOLhyphen"/>fection, we shall insist of this great last wind, which happened on Tuesday last, <hi>February,</hi> 18. as deduced
+<pb facs="tcp:206294:3"/> from natural causes which cannot but portend as now we are setled great and lasting prosperity.</p>
+            <p>That the overruling Government of the Heavens, should be any argument of unruliness in the people, or that Stargazers or such like Spawn of the Tribe, should have such powerful influences of Rebellion, by Prog<g ref="char:EOLhyphen"/>nosticating, and such Almanack stories, is no new matter, though in which the Contrivers and Authors of new mischiefs, have so long and lately laboured, that there is no pity for such conjurers.</p>
+            <p>First, then (not to say that if there were any Dia<g ref="char:EOLhyphen"/>bolical power in this tempest, as he is the Prince of the Ayr, some Luciferian haughty Rebelling spirits as formerly were abroad) we shall describe the nature of Winds, their originals and ends, for unprejudiced satisfaction to the honest countrimen, whom this storm will most directly concern, (leaving the Citi<g ref="char:EOLhyphen"/>zens to look to their Tiles, and Chimnies, the Brick<g ref="char:EOLhyphen"/>layers Harvest) as which will afford him not onely advice for the future, but some past memorable obser<g ref="char:EOLhyphen"/>vations.</p>
+            <p>That these winds have usually forerun great altera<g ref="char:EOLhyphen"/>tions and changes is no untruth; that they have also signified nothing or presaged any turn is truth, but without some damage both at Sea and Land they ne<g ref="char:EOLhyphen"/>ver happened. We will therefore take a short view of the nature of the several Winds, and then proceed to the strange effects of this.</p>
+            <p>The beginning of Winds which requires a deep search and inquiry (as the Scripture saith, <hi>the winds blows where in listeth)</hi> seeing that the whence and the whither are things hidden from us, I shall not undertake positively to affirm. This is certain that Winds are either
+<pb n="5" facs="tcp:206294:3"/> imbred, that is to say of the place where they most usually blow, or forraign that is strangers, which conti<g ref="char:EOLhyphen"/>nue not, but vary and alter into all points of the com<g ref="char:EOLhyphen"/>pass, but these which are strangers here, are Na<g ref="char:EOLhyphen"/>tives in other Countries.</p>
+            <p>There beginnings are threefold. First, they breath or spring out of the ground. Secondly, they come down from the upper Region. Or, Thirdly, are made up in the body of the Air, which last I pitch upon as the surest, Wind being nothing else but the Ayr moved, which being violently troubled, causeth those storms and Tempests that affright the World, being as inun<g ref="char:EOLhyphen"/>dations of Waters, through their vehemency.</p>
+            <p>Histories are the best explainers of such Whirle-Winds, being taken from observations, such as these.</p>
+            <p>1. Sudden blasts never come in clear weather, but al<g ref="char:EOLhyphen"/>ways when the Sky is Cloudy, and the Weather Rainy. 2. Storms which come with a Fogg and Mist, are very violent and most dreadful to Seamen. All of them have a most sudden motion, and most commonly so ex<g ref="char:EOLhyphen"/>pire, but generally neer the Ecclipse of the Moon, you must look for them, as also at the Conjunction of the Planets.</p>
+            <p>Having thus far premised, I need not tell you of those Hurricans which the Ships meet withal towards the Southern most parts of the world, whereby so many hard adventures have been lost; or that at home in our Meadows, Haycocks have been carried on high and spread abroad there like Canopies, by the same force; or that Trees have been torn up by the roots, and thrown to the ground, or that in fine, through this very cause, those frequenter Earth-quakes abroad,
+<pb n="6" facs="tcp:206294:4"/> and falling of ground here, have happened through these tumultuous and boysterous outrages of the wind.</p>
+            <p>To our purpose, nothing could have proved more natural, (howsoever destructive to Houses and Edifices) to the earth then this late tempest for the ayre, being filled and foggd with many vapours, not usual, for the heat in this season of the year, neither Frost nor Snow clearing and purifying the ayre, or binding the earth wherein the hopes of life and sustenance are laid for the ensuing year (the poor infinitely suffering for want of bread, and through the raised prize of all manner of victuals) nothing could more seasonably disperse those gathered Exhaltation and free the Ayr to the ex<g ref="char:EOLhyphen"/>ercise of that bounty and plenty, which it has for many years together, before this, showred down upon this Land and Nation, so that we who formerly were supplied from abroad with all manner of grain, as from <hi>Dantzick Queen-burgh</hi> and the Eastern parts of the world, have been able to help others at as equal prizes as those Corn Countries usually afforded.</p>
+            <p>This famous wind happened on <hi>February,</hi> 18. some days before which deceased that most Noble Royal Lady the Queen of <hi>Bohemia,</hi> his Majesties onely Aunt, who had for so many years been absent from this King<g ref="char:EOLhyphen"/>dome, and was driven and tossed through a Sea of troubles, so that it may be thought these winds gave notice that she was gone to her rest.</p>
+            <p>But omitting all Notes upon the matter, we will descend to a particular Naration of those disasters, and sad accidents, which fell out and were occasio<g ref="char:EOLhyphen"/>ned by this tempest, the damages whereof amount (to what is yet known though more losses will I
+<pb n="7" facs="tcp:206294:4"/> I fear be reckoned hereafter) to an incredible sum, but as the Proverb is, <hi>It is an ill wind that blows no body good;</hi> so as before is said, no doubt much advantage will hereby acrew to us in our hopes of a plentiful year; and to be sure in the City, the Brick<g ref="char:EOLhyphen"/>layers very much rejoyce, and are like to be merry.</p>
+            <p>We begin in order and dignity, with his Majesties Palace at <hi>Whitehal,</hi> and his Park of S. <hi>James,</hi> where the force of the Wind drove the water of the new River (cut there lately by his Majesties order) three<g ref="char:EOLhyphen"/>score yards from its boundary bank, up to the <hi>Cock-pit</hi> stairs, and the Court of Guard there kept, in the man<g ref="char:EOLhyphen"/>ner of showers, so that the guards could not stand there; and also threw up on dry land many hundred of the fishes of all sorts, then swimming in the said River: At the same time also, some Chambers neer His Majesties Royal person were a fire, but it pleased God the wind had not the same violent effect, the flame with diligence being happily put out, and hin<g ref="char:EOLhyphen"/>dred from spreading it self any further.</p>
+            <p>In the next place, the <hi>Mews</hi> where the Kings sta<g ref="char:EOLhyphen"/>bles are, was most lamentably shattered, the great barn being unraftered, and the upper part of it tot<g ref="char:EOLhyphen"/>tering, and all quite blown down, to the great ter<g ref="char:EOLhyphen"/>ror of the horses, who in fear broke from their hal<g ref="char:EOLhyphen"/>ters, and run up and down the yard as if bewitched, and could hardly be caught again, or made quiet, till the dreadfulness of the storm was past and spent.</p>
+            <p>Another more sad and lamentable accident hapned at the new Buildings in <hi>Pickadilly,</hi> where one Mr. <hi>Blith</hi> an Attorney of <hi>Lincolnshire,</hi> passing by with his man, he observed a brick house to totter and reel,
+<pb n="8" facs="tcp:206294:5"/> and therefore desired his Master, that he would not venture to go under that way, but would cross over to the other side of the street; which he not regard<g ref="char:EOLhyphen"/>ing, ventured to run through that danger, and in the middle of his passage, it pleased God the house fell down, and buried him in its ruines; he was taken up with much ado alive, and continued so for half an hour, or thereabouts; during which time, he spoke something concerning his rashness and folly in tempt<g ref="char:EOLhyphen"/>ing God, desiring him to forgive him, and receive him into mercy, and then quietly expired.</p>
+            <p>In <hi>Covent-Garden,</hi> neer the <hi>Fleece Tavern,</hi> there the Lady <hi>Saltenstone,</hi> her maid being dressing her in her lodging, was by the fall of a chimney which fell for<g ref="char:EOLhyphen"/>ward into her chamber, covered over with the load of bricks, and bruised, wounded and stifled to death, be<g ref="char:EOLhyphen"/>fore any help or remedy could be had, being after<g ref="char:EOLhyphen"/>wards drawn out quite dead, to the great grief of all her relations and other persons acquainted with her rare vertues and endowments. Her maid who was dressing her was hurt, but is in the way of re<g ref="char:EOLhyphen"/>covery.</p>
+            <p>Likewise a Gentleman in the Parish of S. <hi>Andrwse Holborn,</hi> as he was venturing to go along the streets, which no rational man durst do, by the fall of a chim<g ref="char:EOLhyphen"/>ney, had his brains beat out, and all his body so bruised and broken, that it looked in a very gastly and ter<g ref="char:EOLhyphen"/>rible manner: His fate and death is the more to be pitied, because of his presumptuous unpreparation for his end.</p>
+            <p>At <hi>Greys-Inn</hi> gate in <hi>Holborn</hi> at the same time, a Coach with two horses standing there, another chim<g ref="char:EOLhyphen"/>ney fell and killed one of the horses, at which the
+<pb n="9" facs="tcp:206294:5"/> other was so terrified, that he broke his harness, and got free, and galloped away as fast as he could drive, the apprehension of the danger being so great even in those irrational and brute creatures.</p>
+            <p>I had almost omitted the Tragedy and Catastro<g ref="char:EOLhyphen"/>phe of those stately Triumphal Arches, built against the Solemnity, and for the Grandeur of his Majesties Coronation last year, at <hi>Fleetstreet</hi> and <hi>Leadenhal-street,</hi> where the tops of them were wholly reversed and beaten down; that in <hi>Fleet-street</hi> falling on the neigh<g ref="char:EOLhyphen"/>bouring houses, and bringing down the uppermost rooms and chimneys, to a very great detriment.</p>
+            <p>At <hi>Brooks</hi> Warf near <hi>Queen-hithe,</hi> a Western Barge laden with cheese, was by the stress of the Wind over<g ref="char:EOLhyphen"/>set, and her keel turned topsie turvy, though there were other barges about that seemed to shelter her; the cheese was all sunk, some part whereof is since recovered, and sold to loss, the other is driven away, and lodged as Provision for the Fish and their Fry.</p>
+            <p>Several Hay-carts coming to <hi>London,</hi> were likewise overblown in the high-way, where they lay, it being a folly to rear up that which the next puff would throw down again, and leave in the same condition; neither could a man himself, either on foot or on horseback keep his way, but was forced either back<g ref="char:EOLhyphen"/>wards or sidewards, as the gusts blowed; some men were constrained to quit their saddles, being blown off their horses backs.</p>
+            <p>Several Hay-reeks, Barns and Stables, by the ve<g ref="char:EOLhyphen"/>hemence of this Hurricane, have been driven about the fields uncovered, and gabel ends of them quite carried off; many stocks of chimneys have been car<g ref="char:EOLhyphen"/>ried twenty foot from the place they were built on,
+<pb n="10" facs="tcp:206294:6"/> and have been thrown upon houses far distant, and not adjoyning thereto.</p>
+            <p>The <hi>Thames</hi> flowed not in sixteen hours together, nor was there any the least sign of an alteration in the tide, so that the River was fordable in many places, just as it hapned before the death of <hi>Oliver:</hi> A certain Waterman venturing to pass the bridge, it being the time of the tides turning, had his boat overset, and set right again, whereunto he got, and persisting in the humor of getting through, was overturned again, and again he recovered the career of his boat, and had doubtless then perished, but that some men com<g ref="char:EOLhyphen"/>passionate, of his trade, ventured from S. <hi>Olaves</hi> stairs, and brought him safely off to shore.</p>
+            <p>In the High-ways about <hi>London,</hi> several trees are blown down, and lie so athwart the road, that it is very difficult and troublesome for Wagons and Carts to pass too and fro. Several Mills have been blown down, to the very great damage of the Brewers, and loss of corn, in this time of scarcity and necessity. At <hi>Greenwich</hi> a miserly Farmer having a barn of corn, which he refused to sell even when the price was risen to twelve shillings the bushel, by a fire that began in a place adjacent, and violently driven towards the said barn, had all his grain totally consumed; Di<g ref="char:EOLhyphen"/>vine Providence frustrating him, as well as he piti<g ref="char:EOLhyphen"/>lesly deprived the poor of sustenance.</p>
+            <p>In the Right Honorable the Earl of <hi>Essexes</hi> Park in <hi>Hertfordshire,</hi> no less then five hundred trees are blown down; such like mischief hath been done in a mul<g ref="char:EOLhyphen"/>titude of other places, and herein <hi>London</hi> in <hi>Lincolns-Inn</hi> Walks, and <hi>Moorfields,</hi> where there seemed to be good shelter.</p>
+            <pb n="11" facs="tcp:206294:6"/>
+            <p> Divers Vessels have been wrackt at Sea, the wher<g ref="char:EOLhyphen"/>ries of the River of <hi>Thames</hi> grievously shattered and dashed one against another, and against the stairs where they lay. For the Sea particularly, a Vessel of 200 tun, bound from <hi>Waterwick</hi> in <hi>Suffolk,</hi> to <hi>London,</hi> laden with cheese and butter, having lain wind-bound for twelve days before, taking the advantage of that gale, put out to Sea, and three hours after was sur<g ref="char:EOLhyphen"/>prized with the tempest, in sight of <hi>Harwich,</hi> into which Harbour, the Master being a skilful Seaman, en<g ref="char:EOLhyphen"/>deavored to get (while another Vessel despairing of doing it, ran herself ashore, and saved the lives of the men, and her goods) but the wind beating direct<g ref="char:EOLhyphen"/>ly off that shore, he was put so to Leeward, that he could recover neither the one nor the other; and his ship was so bruised, that having rid out the storm from morning till four in the afternoon, he at last sunk down in sight of <hi>Harwich</hi> aforesaid, ship, men and goods, being utterly lost, to the great loss of the Traders in those Commodities.</p>
+            <p>At <hi>S. Nedes</hi> and <hi>Eynsbury</hi> in <hi>Huntingtonshire,</hi> the wind hath unript the Lead from off both those Parish Churches, and folded it up almost to the very ends, and done very near a thousand pound damage in those places: The like hath been done in the County round about, beyond all example.</p>
+            <p>At <hi>Portsmouth</hi> in <hi>Hampshire,</hi> a ship bound for <hi>New-found-land,</hi> being rigged, victualled, and equipaged for Voyage, with her nets and other necessaries for the Trade of Fishing, being meared at Anchor with<g ref="char:EOLhyphen"/>in the Haven, was by the extreme violence of the wind, driven from her Anchor, and one man onely being then aboard her, who seeing her drive, wisely
+<pb n="12" facs="tcp:206294:7"/> withdrew himself into her boat that lay at the stern, and with much ado having cut her away from the ship, rowed himself to shore: The ship was carried away by the storm, and was lost, no man knowing what became of her, to the very great damage of the owners and traders concerned in her.</p>
+            <p>In Surrey a Countreyman walking in his grounds, was upon his return home, aside whereof somewhat distant stood a Pond, was by this Hurrican constrain<g ref="char:EOLhyphen"/>ed and forced thither, not being able to withstand it, or to keep himself in his right way: Being thus driven till he came to the very brink of the Pond, and seeing there was no way but that he must in, which was dangerous, by reason of the depth there<g ref="char:EOLhyphen"/>of, he wisely threw himself flat on his belly, and so crawled round to the opposite part of the Pond, where rising, the wind took him, and blew him into his house, where he was glad to finde a shelter, though not quite out of danger, by the fall of his chimneys.</p>
+            <p>In <hi>Cambridgeshire,</hi> a Gentleman going to help and mend his pales which the wind had overturned, while he was at work with his Servants, the same storm blew down his barn. <hi>O,</hi> quoth he, <hi>hath the Devil no where to go but over my barn?</hi> In speaking whereof, down next came the stables too: <hi>So,</hi> saith he, <hi>now De<g ref="char:EOLhyphen"/>vil do thy worst, better stand still, then cross your will;</hi> and so gave over working, till he see an end of what he was to repair, and what entire and standing, would be the Fiends leavings, as he merrily added.</p>
+            <p>In <hi>Kent,</hi> most of the Gentlemens houses are shatter<g ref="char:EOLhyphen"/>ed and torn, part of them carried away, and born down with out-houses, stacks of Hay, and such like, that some particular persons of account there, will
+<pb n="13" facs="tcp:206294:7"/> hardly repair their ruines caused by the Tempest, a<g ref="char:EOLhyphen"/>bout their Mannors, for a thousand pounds apiece.</p>
+            <p>At <hi>VVeston</hi> in <hi>Cambridgeshire,</hi> a man being upon a barn, intending to secure and fasten his thatch, the wind lifted him up into the ayr, and there sported with him as with a feather, and then set him down upon the ground at a good distance from the barn safely and easily, upright on his feet, to the won<g ref="char:EOLhyphen"/>der and amazement of himself and spectators.</p>
+            <p>At the Piazza's in <hi>Covent Garden,</hi> two Bricklayers seeing the havock made by the storm, and were stand<g ref="char:EOLhyphen"/>ing and viewing upward the bare places from whence the tiles fell, one of them said frolically to his com<g ref="char:EOLhyphen"/>panion, <hi>Come, let's be merry, we have work now for four<g ref="char:EOLhyphen"/>teen days;</hi> whereupon instantly a tile fell, and took him on the head with such a force, that it wounded him, and struck him to the ground; at which acci<g ref="char:EOLhyphen"/>dent his fellow presently replied, <hi>Come, let's be merry, I will warrant you work for fourteen days;</hi> but it is sup<g ref="char:EOLhyphen"/>posed his cure will not be effected, if then, within fourteen weeks.</p>
+            <p>At <hi>Abington,</hi> the steeple of the Church having for some while rockt and nodded backward and forward, being a very well and strong built Fabrick, came at last down with such a powder and rubbish, and with such a great noise, that the beholders, though they expected its fall, were affrighted when it tumbled, and astonished at its ruines.</p>
+            <p>In <hi>Westminster,</hi> on that part of the Hall which looks towards <hi>Lambeth,</hi> on the frontispiece Battle<g ref="char:EOLhyphen"/>ment, where the Head of <hi>Cook</hi> the Sollicitor of that infamous High Court of Injustice stood, it blew so out<g ref="char:EOLhyphen"/>ragiously, that at last the aforesaid head was blown down,
+<pb n="14" facs="tcp:206294:8"/> but was soon after set up again on the same place, where it now stands.</p>
+            <p>Divers little Rivers have been so driven with the Tempest, that they were left dry for a while, the wa<g ref="char:EOLhyphen"/>ters being blown out faster then the springs could sup<g ref="char:EOLhyphen"/>ply them, the fish being left in holes, and upon the gravel, till a recruit came and covered them.</p>
+            <p>A Coachman coming from <hi>VVindsor,</hi> as he sate in the box driving the horses, who were scarce able to keep the road, and the Coach several times near over<g ref="char:EOLhyphen"/>born, was at last himself quite blown off the box into the high-way, where by the fall he broke his neck, and dyed immediately.</p>
+            <p>At <hi>Charing-Cross,</hi> in the back way that leads to the Tennis-Court, some horses in the adjoyning stables having for fear got out from thence, and running for shelter under the brickwal that goes up to the houses, the said brickwal having made two or three totters, at last fell down upon the said horses, killed and bruised many of them, being some of them Horses for service, and for the race.</p>
+            <p>At <hi>Greenwich,</hi> where we have observed some other losses, a wall likewise fell down, to the length of thir<g ref="char:EOLhyphen"/>ty rod, together, but it pleased God, without any hurt or mischief to any body.</p>
+            <p>From several Houses in <hi>London,</hi> and the Countrey, the Lead (as hath been shewed before) hath been forced from their tops, and rolled up, and in some places ponderous weights of it, to a thousand pound and upwards, hath been blown thirty, forty, and fifty foot from the places it covered; and in one place twenty five foot level upon another house, and there broke down the rafters, and sunk into the lower rooms.</p>
+            <pb n="15" facs="tcp:206294:8"/>
+            <p> In other places of the Countrey, as in <hi>Derbyshire,</hi> hath been a kinde of Earthquake with the wind, so that the Inhabitants ran out of their houses, fearing they would sink, and be swallowed up in the earth, ob<g ref="char:EOLhyphen"/>serving the timber to settle, and the ground floors to move.</p>
+            <p>Most of pales of the <hi>London</hi> Bridge were blown down, where a Woman ventring to look through some that stood, into the River, had her Coats blown about her ears, and could by no means bring them down again, but was exposed to the view and laughter of wiser people, who would not trust themselves to the danger of passing over.</p>
+            <p>Neither hath this Wind been more favourable or less boisterous in other parts of the World, as far as yet we can receive intelligence, not knowing by the Post, from distant places, what harm it hath don there; but in <hi>Holland</hi> it hath been outragious and violent, as here; for in the <hi>Texel,</hi> of fifty ships that lay near one another, above forty of them are wracked, sunk, and run ashore, who they soon after bulyed, many mens lives being lost therein, besides other inestima<g ref="char:EOLhyphen"/>ble worth of Merchandize.</p>
+            <p>In <hi>France</hi> likewise abundance of hurt hath been done in the same nature and manner as here, by beating down houses, rooting up of trees, throwing down barns and hay-stacks, and lesser mischief of chimneys and tops of houses: But that which more neerly con<g ref="char:EOLhyphen"/>cerns us, is, that several Vineyards have been spoiled, the Vines torn up, and levelled with the ground; so that there is great fear of scarcity of Wine, and a bad Vintage there: All the hope is, this Wind hath not reached the <hi>Canary</hi> Islands, and then there is some
+<pb n="16" facs="tcp:206294:9"/> comfort left to chear up our hearts after this devasta<g ref="char:EOLhyphen"/>tion and spoil.</p>
+            <p>In the Kingdom of <hi>Ireland</hi> it hath also done a great deal of hurt, in the Towns, and in the fields.</p>
+            <p>But amidst all this fury, the ruinous Cathedrals of <hi>England,</hi> which most men feared would be utterly overturn'd, are by special Providence, as it were, un<g ref="char:EOLhyphen"/>touched, no material or great hurt being done them, especiall that of S. <hi>Pauls, London,</hi> whose venerable Head weathered out all the violence of the Tempest; so we have seen Sacriledge to be stronger and more forcible then age and storms, it having endured years and gusts with more easie patience, then the fingers of covetous and Church-robbing Sectaries. It is now resettled upon its ancient pillars and foundation, Epis<g ref="char:EOLhyphen"/>copal Authority and Regiment, and no doubt will stand fast, till the speedy piety and bounty of its Re<g ref="char:EOLhyphen"/>storers, shall repair it to its first glorious Magnifi<g ref="char:EOLhyphen"/>cence.</p>
+            <closer>Quod faxit Deus.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206294:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
